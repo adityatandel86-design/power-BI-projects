@@ -1,102 +1,110 @@
-📊 Data Leverager – Power BI ETL Project
+# Data Leverager - Power Query ETL & Data Transformation
 
-Overview
+## Project Overview
 
-Data Leverager is a Power BI ETL project focused on transforming raw business data into a clean, structured, and analysis-ready dataset using Power Query.
+This project focuses on ETL (Extract, Transform, Load) processes using Power Query in Power BI. The objective was to clean, transform, and prepare raw datasets for analysis by handling data quality issues and combining data from multiple sources.
 
-The project demonstrates essential data preparation techniques including data cleaning, transformation, validation, and loading within Power BI.
-
----
-
-🎯 Project Objectives
-
-- Import raw data from source files
-- Clean and standardize datasets
-- Handle missing and inconsistent values
-- Convert and validate data types
-- Improve overall data quality
-- Prepare data for business reporting and analytics
-
----
-
-🛠️ Tools & Technologies
+## Tools Used
 
 - Power BI Desktop
 - Power Query
-- Microsoft Excel
-- GitHub
 
 ---
 
-🔄 ETL Workflow
+## Employee Data
 
-Extract
+Initial employee dataset loaded into Power Query for transformation and cleaning.
 
-- Imported source data into Power BI
+![Employee Data]("
 
-Transform
 
-- Removed unnecessary columns
-- Cleaned inconsistent values
-- Handled missing records
-- Corrected data types
-- Applied Power Query transformations
-- Standardized data structure
-
-Load
-
-- Loaded transformed data into the Power BI data model
 
 ---
 
-📁 Project Structure
+## Merge Queries
 
-power-BI-projects/
-│
-├── pr1_data_leverager.pbix
-├── README.md
-├── step1.png.png
-├── step2.png.png
-└── step3.png.png
+Combined multiple datasets using Merge Queries to enrich and consolidate information.
+
+![Merge Queries](Merge_Queries.png)
 
 ---
 
-📸 Project Screenshots
+## Merge Queries - Clean Data
 
-Power Query Transformation
+Validated and cleaned merged data to ensure consistency and accuracy.
 
-"Power Query Transformation" (step1.png.png)
-
-Applied Steps
-
-"Applied Steps" (step2.png.png)
-
-Final Cleaned Dataset
-
-"Final Cleaned Dataset" (step3.png.png)
+![Merge Queries Clean Data](Merge_Queries clean data.png)
 
 ---
 
-📌 Key Skills Demonstrated
+## Append Queries
 
-- ETL Process Implementation
-- Data Cleaning
-- Data Transformation
+Appended multiple datasets into a single unified table for analysis.
+
+![Append Queries](Append_Queries.png)
+
+---
+
+## Clean Dataset
+
+Performed data cleaning operations such as:
+
+- Handling null values
+- Removing duplicates
+- Correcting data types
+- Standardizing formats
+
+![Clean Dataset](Clean_Dataset.png)
+
+---
+
+## Final Clean Dataset
+
+Final transformed dataset ready for reporting and analysis.
+
+![Final Clean Dataset](Clean_Dataset2.png)
+
+---
+
+## ETL Processes Demonstrated
+
+### Extract
+- Imported raw datasets into Power BI.
+
+### Transform
+- Removed duplicates
+- Handled null values
+- Changed data types
+- Renamed columns
+- Merged datasets
+- Appended datasets
+
+### Load
+- Loaded cleaned and transformed data into the Power BI data model.
+
+---
+
+## Skills Demonstrated
+
 - Power Query
-- Data Quality Management
-- Power BI Development
-- GitHub Documentation
+- ETL Processes
+- Data Cleaning
+- Null Value Handling
+- Duplicate Removal
+- Merge Queries
+- Append Queries
+- Data Transformation
+- Data Preparation
+- Power BI
 
 ---
 
-🚀 Outcome
+## Learning Outcomes
 
-Successfully transformed raw data into a structured dataset suitable for reporting and analytical purposes using Power BI and Power Query.
+Through this project, I gained practical experience in:
 
----
-
-👨‍💻 Author
-
-Aditya Tandel
-
-Power BI | Data Analytics | ETL & Data Transformation
+- Cleaning raw datasets
+- Preparing data for analysis
+- Combining multiple data sources
+- Building ETL workflows in Power Query
+- Improving data quality and consistency
