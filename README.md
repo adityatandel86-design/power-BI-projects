@@ -93,15 +93,18 @@ Screenshots
 
 Employee Data Cleaning
 
-"Employee Data" (step1.png.png)
+"Employee Data" <img width="1920" height="1080" alt="employee data cleaning" src="https://github.com/user-attachments/assets/34730772-ead0-4fae-be1b-a78195a0ec51" />
+
 
 Merge Queries
 
-"Merge Queries" (step2.png.png)
+"Merge Queries" <img width="1920" height="1080" alt="merge queries" src="https://github.com/user-attachments/assets/ba7979a5-e7dc-46e5-838a-3f02f3684616" />
+
 
 Append Queries
 
-"Append Queries" (step3.png.png)
+"Append Queries" <img width="1920" height="1080" alt="append queries" src="https://github.com/user-attachments/assets/3e7c16f2-fa79-4d7d-99f6-0ab2216a770b" />
+
 
 ---
 
